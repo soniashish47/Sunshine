@@ -8,6 +8,8 @@
         app:showAsAction="always" />
     <item android:id="@+id/action_refresh1"
         android:title="@string/refresh"
-
+        app:showAsAction="never" />
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
         app:showAsAction="never" />
 </menu>

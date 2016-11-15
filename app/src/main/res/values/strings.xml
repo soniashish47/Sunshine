@@ -6,4 +6,13 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    <!--Preference Screen-->
+    <string name="pref_pincode">Pin Code</string>
+    <string name="pref_pincode_summ">Enter pin code of the city</string>
+    <string name="pref_pincode_default">500084</string>
+    <string name="pref_unit">Unit</string>
+    <string name="pref_unit_summary">Select the unit of temperature</string>
+    <string name="perf_pincode_key">PinCode key</string>
+
+
 </resources>

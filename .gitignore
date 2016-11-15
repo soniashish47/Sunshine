@@ -41,3 +41,8 @@ project.properties
 ##Gradle-based build
 .gradle
 build/
+
+key.txt
+key.txt.pub
+
+.gitignore
